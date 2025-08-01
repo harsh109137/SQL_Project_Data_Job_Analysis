@@ -6,7 +6,7 @@
 It explores top-paying roles🔥, high-paying skills🤹‍♀️, and in-demand tools🛠 across the data science job market. 
 Using SQL queries on a multi-table dataset, it identifies trends📈 and optimal skills for job seekers🔎. 
 The goal is to align skill-building💪 with high-value career opportunities.  
-cheak it out here  [project_sql_folder](/SQL_Project1/)
+cheak it out here  [project_sql_folder](/SQL_Project/)
 
 
 ## Brief Introdution of Data Set🔢 used in this project
